@@ -27,12 +27,12 @@ Based on the heuristic evaluation, several UX design improvements were proposed.
 
 To measure the impact of the proposed changes, A/B testing was conducted over a two-week period. Group A interacted with the original interface (control group), while Group B used the modified version (test group). Metrics such as average session duration, click-through rate (CTR) on restaurant listings, conversion rate (order completion), and bounce rate were analyzed. In Zomato's case, Group B showed a 15% reduction in bounce rate and a 12% increase in conversion rates, indicating that reducing visual noise improved user focus and engagement. For Swiggy, the test group experienced a 20% increase in customer support interactions and an 8% faster checkout time, affirming the improved usability of navigation and task flow. These findings validate that thoughtful heuristic-based design changes can significantly enhance the user experience and influence user behavior positively.
 
-## Result:
+
 <img width="1919" height="997" alt="Screenshot 2025-11-22 144355" src="https://github.com/user-attachments/assets/16b1bbd4-365e-4a13-812c-14e4f1c940c6" />
 <img width="1919" height="922" alt="Screenshot 2025-11-22 144419" src="https://github.com/user-attachments/assets/673bc086-e837-4f26-8d80-a9a5322d81fe" />
 <img width="1919" height="978" alt="Screenshot 2025-11-22 144556" src="https://github.com/user-attachments/assets/c4698abc-d517-4bcf-9ebe-4bfdb519d9d0" />
 <img width="1919" height="913" alt="Screenshot 2025-11-22 144636" src="https://github.com/user-attachments/assets/1a42bae5-52b3-404d-977b-ac0664ac0727" />
 
 
-
+# Result:
 To apply Heuristic Evaluation of an Existing Website or App is completed.
